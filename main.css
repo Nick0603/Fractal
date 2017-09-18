@@ -1,0 +1,7 @@
+*{
+    text-align: center;
+    margin: 1em;
+}
+#myCanvas{
+    border: 1em solid #000;
+}
