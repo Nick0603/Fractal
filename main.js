@@ -1,7 +1,7 @@
 let firstLayer = 1;
 var mirrorY = 1080*0.9;
-var startX = 100;
-var endX = 1920-100;
+var startX = 1920 * 0.2;
+var endX = 1920 - 1920 * 0.2;
 var startY = mirrorY;
 var endY = mirrorY;
 
