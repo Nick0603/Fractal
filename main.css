@@ -3,5 +3,7 @@
     margin: 1em;
 }
 #myCanvas{
+    width: 800px;
+    height:600px;
     border: 1em solid #000;
 }
